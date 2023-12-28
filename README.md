@@ -9,11 +9,11 @@
 - 💻 Proficient in Python, Assembly, and C.
 - 🚀 Continuously exploring and learning new technologies.
 
-[<img align="left" alt="Jabiulla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ## Contact
 - 📧 Email: fabianocosta07@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/fabianodasilvacosta
-- [instagram]: https://www.instagram.com/fabiano_sct
+- Instagram: https://www.instagram.com/fabiano_sct
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoSCosta&layout=compact)
 
