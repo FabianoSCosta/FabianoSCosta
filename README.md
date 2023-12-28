@@ -12,8 +12,7 @@
 
 ## Contact
 - 📧 Email: fabianocosta07@gmail.com
-- 🔗 LinkedIn: [Fabiano](www.linkedin.com/in/
-fabianodasilvacosta)
+- 🔗 LinkedIn: [Fabiano](www.linkedin.com/in/fabianodasilvacosta)
 <!--
 **FabianoSCosta/FabianoSCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
