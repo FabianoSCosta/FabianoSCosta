@@ -1,5 +1,19 @@
-### Hi there 👋
+# Hello, I'm Fabiano! 👋
 
+## About Me
+- 👨‍🎓 Physics graduate, currently a Computer Science student.
+- 🧠 Passionate about mathematics and natural sciences.
+
+
+## Skills
+- 💻 Proficient in Python, Assembly, and C.
+- 🚀 Continuously exploring and learning new technologies.
+
+
+## Contact
+- 📧 Email: fabianocosta07@gmail.com
+- 🔗 LinkedIn: [Fabiano](www.linkedin.com/in/
+fabianodasilvacosta)
 <!--
 **FabianoSCosta/FabianoSCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
