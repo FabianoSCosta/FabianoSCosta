@@ -15,7 +15,7 @@
 - 🔗 LinkedIn: www.linkedin.com/in/fabianodasilvacosta
 - Instagram: https://www.instagram.com/fabiano_sct
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoSCosta&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoSCosta&layout=compact&hide=makefile,batchfile)
 
 
 <!--
