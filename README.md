@@ -1,7 +1,8 @@
 # Hello, I'm Fabiano! 👋
 
 ## About Me
-- 👨‍🎓 Physics graduate, currently a Computer Science student.
+- 👨‍🎓 Physics graduate
+- 👨‍🎓 Computer Science graduate
 - 🧠 Passionate about mathematics and natural sciences.
 
 
